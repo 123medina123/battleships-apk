@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BattleShips.iml" filepath="$PROJECT_DIR$/BattleShips.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Noade\Desktop\battleships-apk\BattleShips.iml" filepath="C:\Users\Noade\Desktop\battleships-apk\BattleShips.iml" />
+      <module fileurl="file://C:\Users\Noade\Desktop\battleships-apk\app\app.iml" filepath="C:\Users\Noade\Desktop\battleships-apk\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/battleships-apk.iml" filepath="$PROJECT_DIR$/.idea/battleships-apk.iml" />
     </modules>
   </component>
 </project>
